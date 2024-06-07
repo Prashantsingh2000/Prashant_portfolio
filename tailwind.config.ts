@@ -89,7 +89,6 @@ const config = {
           to:{
             trasnform: "translate(0px)",
             opacity:"1",
-git
           },
         },
 
