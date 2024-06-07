@@ -15,14 +15,14 @@ export default function HeroSection() {
         </h1>
 
        <p className="md:9 text-lg text-gray-300">
-        {
-            "Hello my name is Prashant Singh and I m done my Bachelor of Engineering from Computer Science engineering. devloping website applications.My journey so far has included working with both front-end and back-end development. "
-                 
-        }
+       {
+    "Hello, my name is Prashant Singh and I have completed my Bachelor of Engineering in Computer Science Engineering. \n I specialize in developing website applications, \n with experience in both front-end and back-end development."
+}
+
 
         </p> 
 
-        <Link href={"mailto:collegetime0@gmail.com"} 
+        <Link href={"mailto:prashantsingh5720@gmail.com"} 
         className="inline-block group">
          
 
